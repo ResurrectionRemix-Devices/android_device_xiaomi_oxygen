@@ -16,7 +16,7 @@ if [ ! -z "$MESSAGE" ] && [ -z "$2" ]; then
 	echo "Comitting changes..."
 	git commit -m "$MESSAGE"
 	echo "Pushing changes..."
-	git push origin oreo-mr1
+	git push origin oreo-mr1_treble
 	echo "Finished...!"
 else
 	echo " "
