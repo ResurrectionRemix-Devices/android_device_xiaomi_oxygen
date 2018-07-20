@@ -19,7 +19,7 @@
 | Release Date            | May 2017                          |
 
 ## Device picture
-![MI Max 2](https://cdn.vox-cdn.com/thumbor/-wXa1W20fG-5dssL9Fms_BwzGrQ=/0x0:1381x923/920x613/filters:focal(581x352:801x572):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/54943957/MiMax.0.jpg "Xiaomi MAX 2")
+![MI Max 2](https://cdn.vox-cdn.com/uploads/chorus_image/image/54943957/MiMax.0.jpg "Xiaomi MAX 2")
 
 
 Additional Notes:
