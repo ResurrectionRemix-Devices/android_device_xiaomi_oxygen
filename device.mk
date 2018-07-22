@@ -333,9 +333,6 @@ PRODUCT_PACKAGES += \
     init.qcom.bt.sh \
     init.qcom.post_boot.sh
 
-PRODUCT_COPY_FILES += \
-    $(DEVICE_PATH)/rootdir/fstab.qcom:system/etc/fstab.qcom
-
 # RenderScript HAL
 PRODUCT_PACKAGES += \
     android.hardware.renderscript@1.0-impl
