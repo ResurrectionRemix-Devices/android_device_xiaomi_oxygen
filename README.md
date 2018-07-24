@@ -23,5 +23,4 @@
 
 
 Additional Notes:
-This tree is still under development and is restricted for the time being. Unauthorized access is not acceptable.
-Forking is not allowed as well for now...!
+This tree is still under development!
