@@ -1,0 +1,23 @@
+[
+  {
+    "repository" : "LineageOS/android_device_qcom_common",
+    "target_path": "device/qcom/common",
+    "branch"     : "lineage-15.1"
+  },
+  {
+    "repository" : "LineageOS/android_packages_resources_devicesettings",
+    "target_path": "packages/resources/devicesettings",
+    "branch"     : "lineage-15.1"
+  },
+  {
+    "repository" : "Oxygen-Development/android_kernel_xiaomi_msm8953",
+    "target_path": "kernel/xiaomi/msm8953",
+    "branch"     : "treble_WIP"
+  },
+  {
+    "repository" : "Oxygen-Development/android_vendor_xiaomi_oxygen",
+    "target_path": "vendor/xiaomi/oxygen",
+    "branch"     : "master"
+  }
+]
+
