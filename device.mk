@@ -31,8 +31,13 @@ ALLOW_MISSING_DEPENDENCIES := true
 # Overlays
 DEVICE_PACKAGE_OVERLAYS += $(DEVICE_PATH)/overlay
 
-#Bootanimation res
-TARGET_BOOT_ANIMATION_RES := 1080
+# Boot animation
+TARGET_BOOTANIMATION_HALF_RES := true
+TARGET_SCREEN_HEIGHT := 1920
+TARGET_SCREEN_WIDTH := 1080
+
+# FOR BUILDING OFFICIAL PACKAGE
+export export RR_BUILDTYPE=Official
 
 # Permissions
 PRODUCT_COPY_FILES += \
@@ -408,3 +413,4 @@ PRODUCT_COPY_FILES += \
 PRODUCT_COPY_FILES += \
     $(DEVICE_PATH)/wifi/WCNSS_cfg.dat:system/etc/firmware/wlan/prima/WCNSS_cfg.dat \
 $(DEVICE_PATH)/wifi/WCNSS_qcom_cfg.ini:$(TARGET_COPY_OUT_VENDOR)/etc/wifi/WCNSS_qcom_cfg.ini
+
