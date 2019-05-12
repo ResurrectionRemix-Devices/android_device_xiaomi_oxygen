@@ -7,14 +7,26 @@
  },
   {
    "remote": "github",
-   "repository": "sarthak/pie_oxygen_msm8953-common",
+   "repository": "ResurrectionRemix-Devices/android_device_msm8953-common",
    "target_path": "device/xiaomi/msm8953-common",
    "branch": "pie"
  },
  {
    "remote": "github",
-   "repository": "sarthakmalla/Vendor_xiaomi_common",
+   "repository": "ResurrectionRemix-Devices/android_vendor_oxygen",
    "target_path": "vendor/xiaomi",
    "branch": "pie"
+   },
+   {
+   "remote": "github",
+   "repository": "RevengeOS/android_device_qcom_common",
+   "target_path": "device/qcom/common",
+   "branch": "r9.0-caf"
+ },
+{
+   "remote": "github",
+   "repository": "LineageOS/android_packages_resources_devicesettings",
+   "target_path": "packages/resources/devicesettings",
+   "branch": "lineage-16.0"
  }
 ]
