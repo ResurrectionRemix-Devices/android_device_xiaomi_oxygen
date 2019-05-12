@@ -2,7 +2,7 @@
  {
    "remote": "github",
    "repository": "rakeshraimca/Kernel_xiaomi_oxygen",
-   "target_path": "kernel/xiaomi/oxygen",
+   "target_path": "kernel/xiaomi/msm8953",
    "branch": "lineage-16"
  },
   {
